@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,map_jpg,Npc1_png,Npc2_png,tanhao_png,wenhao_png,wenhao2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "map_jpg",
+			"type": "image",
+			"url": "assets/map.jpg"
+		},
+		{
+			"name": "Npc1_png",
+			"type": "image",
+			"url": "assets/Npc1.png"
+		},
+		{
+			"name": "Npc2_png",
+			"type": "image",
+			"url": "assets/Npc2.png"
+		},
+		{
+			"name": "tanhao_png",
+			"type": "image",
+			"url": "assets/tanhao.png"
+		},
+		{
+			"name": "wenhao_png",
+			"type": "image",
+			"url": "assets/wenhao.png"
+		},
+		{
+			"name": "wenhao2_png",
+			"type": "image",
+			"url": "assets/wenhao2.png"
+		}
+	]
+}
